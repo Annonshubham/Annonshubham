@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | SaaS Builder</h3>
+<h3 align="center">🛡 Cybersecurity Enthusiast | Backend Developer | Secure System Builder</h3>
 
 ---
 
