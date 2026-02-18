@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">🛡 Cybersecurity Enthusiast | Backend Developer | Secure System Builder</h3>
+<h3 align="center">🚀 Backend Developer | Python & Django | Building Scalable Systems</h3>
 
 ---
 
