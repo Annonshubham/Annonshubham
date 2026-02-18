@@ -3,57 +3,77 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🛡 About Me
 
 - 🎓 Computer Science Student
-- 💻 Passionate about Backend & System Design
-- ⚙️ Building scalable web applications using Django & React
-- 🚀 Currently working on SaaS-based projects
-- 📚 Learning advanced backend architecture & clean coding principles
+- 🔐 Passionate about Cybersecurity & Secure Coding
+- 🧠 Interested in Web Security, Threat Detection & Vulnerability Analysis
+- ⚙️ Building secure backend systems using Python & Django
+- 🚀 Working on security-focused tools and SaaS applications
+- 📚 Currently learning advanced security concepts & system design
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Core Interests
+
+- Web Application Security
+- Ethical Hacking Basics
+- Secure Backend Architecture
+- Vulnerability Detection
+- Secure Authentication Systems
+- Cyber Threat Awareness
+
+---
+
+## 🛠 Tech Stack
 
 ### 💻 Languages
 - Python
 - JavaScript
 - TypeScript
 
-### 🌐 Frontend
-- React
-- HTML5
-- CSS3
-
-### ⚙️ Backend
+### 🌐 Backend
 - Django
 - Node.js
 
-### 🗄️ Database
+### 🗄 Database
 - MongoDB
 
+### 🔐 Security Tools & Concepts
+- Password Validation Logic
+- URL Threat Detection
+- Secure Coding Practices
+- Basic Cryptography Concepts
+
 ### 🧰 Tools
-- Git
-- GitHub
+- Git & GitHub
 - VS Code
+- Postman
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔐 **Password Strength Checker** – Validates password security using Python logic
-- 🖥 **CPU Scheduler Visualizer** – Simulates FCFS, SJF & Round Robin algorithms
-- 🌐 **Fake Website Detector** – Detects suspicious URLs using JavaScript
-- 📊 **FocusEd SaaS Backend Dashboard** – Backend architecture for productivity platform
+- 🔐 **Password Strength Checker**  
+  Python-based tool to evaluate password security and enforce strong credential policies.
+
+- 🌐 **Fake Website Detector**  
+  JavaScript-based project to identify suspicious URLs and phishing patterns.
+
+- 🖥 **CPU Scheduler Visualizer**  
+  Simulation of scheduling algorithms (FCFS, SJF, Round Robin) demonstrating system-level concepts.
+
+- 📊 **FocusEd SaaS Backend Dashboard**  
+  Backend architecture for a productivity-based SaaS platform.
 
 ---
 
 ## 📈 Current Goals
 
-- 🔥 Contribute consistently on GitHub
-- 🏗 Build production-ready backend systems
-- 📦 Deploy full-stack applications
-- 💼 Prepare for product-based companies
+- 🛡 Build advanced cybersecurity tools
+- 🏗 Develop secure production-level backend systems
+- 📚 Strengthen knowledge in penetration testing fundamentals
+- 💼 Prepare for cybersecurity-focused roles
 
 ---
 
