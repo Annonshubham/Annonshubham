@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+<h1 align="center">Hi 👋, I'm Shubham Kumar Singh</h1>
 <h3 align="center">🚀 Backend Developer | Python & Django | Building Scalable Systems</h3>
 
 ---
