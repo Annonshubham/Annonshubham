@@ -1,87 +1,72 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar Singh</h1>
-<h3 align="center">🚀 Backend Developer | Python & Django | Building Scalable Systems</h3>
+<h1 align="center">Hey, I'm Shubham Kumar Singh 👋</h1>
+
+<p align="center">
+  <b>Backend Developer · Cybersecurity Enthusiast · B.Tech CSE @ Lovely Professional University</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Annonshubham&color=1D9E75&style=flat"/>
+</p>
 
 ---
 
-## 🛡 About Me
+## About Me
 
-- 🎓 Computer Science Student
-- 🔐 Passionate about Cybersecurity & Secure Coding
-- 🧠 Interested in Web Security, Threat Detection & Vulnerability Analysis
-- ⚙️ Building secure backend systems using Python & Django
-- 🚀 Working on security-focused tools and SaaS applications
-- 📚 Currently learning advanced security concepts & system design
+I'm a backend developer with a strong focus on **security-first architecture** — building systems that don't just work, but resist threats by design.
 
----
-
-## 🔥 Core Interests
-
-- Web Application Security
-- Ethical Hacking Basics
-- Secure Backend Architecture
-- Vulnerability Detection
-- Secure Authentication Systems
-- Cyber Threat Awareness
+- 🎓 B.Tech Computer Science @ **Lovely Professional University**
+- 🔐 Passionate about **cybersecurity**, secure coding & vulnerability analysis
+- ⚙️ Building backend systems with **Python & Django**
+- 🌐 Exploring **threat detection**, phishing defense & penetration testing fundamentals
+- 🚀 Currently developing: **FocusEd SaaS** — a secure productivity platform
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
-- Python
-- JavaScript
-- TypeScript
+**Languages**
+`Python` `TypeScript` `JavaScript`
 
-### 🌐 Backend
-- Django
-- Node.js
+**Backend & DB**
+`Django` `Node.js` `MongoDB`
 
-### 🗄 Database
-- MongoDB
+**Security & Tools**
+`Secure Auth Systems` `URL Threat Detection` `Password Validation` `Basic Cryptography`
 
-### 🔐 Security Tools & Concepts
-- Password Validation Logic
-- URL Threat Detection
-- Secure Coding Practices
-- Basic Cryptography Concepts
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
+**Dev Tools**
+`Git` `GitHub` `Postman` `VS Code`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🔐 **Password Strength Checker**  
-  Python-based tool to evaluate password security and enforce strong credential policies.
-
-- 🌐 **Fake Website Detector**  
-  JavaScript-based project to identify suspicious URLs and phishing patterns.
-
-- 🖥 **CPU Scheduler Visualizer**  
-  Simulation of scheduling algorithms (FCFS, SJF, Round Robin) demonstrating system-level concepts.
-
-- 📊 **FocusEd SaaS Backend Dashboard**  
-  Backend architecture for a productivity-based SaaS platform.
+| Project | Description | Stack |
+|---|---|---|
+| [🔐 Password Strength Checker](https://github.com/Annonshubham/Password_Strength_Checker) | Rule-based tool to evaluate password security and enforce strong credential policies | Python |
+| [🌐 Fake Website Detector](https://github.com/Annonshubham/fake-website-detector) | Identifies phishing patterns and suspicious URLs in real time | JavaScript |
+| [🖥 CPU Scheduler Visualizer](https://github.com/Annonshubham/Cpu-schedular) | Simulates FCFS, SJF, Round Robin & Priority Scheduling with live performance metrics | JavaScript |
+| [📊 FocusEd SaaS Backend](https://github.com/Annonshubham/FocusEd-SaaS-Backend) | REST API backend for a productivity SaaS platform with secure auth & data design | TypeScript |
 
 ---
 
-## 📈 Current Goals
+## GitHub Stats
 
-- 🛡 Build advanced cybersecurity tools
-- 🏗 Develop secure production-level backend systems
-- 📚 Strengthen knowledge in penetration testing fundamentals
-- 💼 Prepare for cybersecurity-focused roles
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Annonshubham&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annonshubham&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
-⭐️ From [Annonshubham](https://github.com/Annonshubham)
+## Current Goals
+
+- 🛡 Build a portfolio of **real-world cybersecurity tools**
+- 🏗 Ship a production-grade secure backend project
+- 📚 Complete foundational **penetration testing** certifications
+- 💼 Land a backend or security-focused role in tech
+
+---
+
+<p align="center"><i>"Security is not a feature — it's a foundation."</i></p>
